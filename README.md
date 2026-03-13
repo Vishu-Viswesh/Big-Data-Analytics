@@ -2,7 +2,7 @@
 
 # 🚀 Shadow OS: Distributed Big Data Recommendation Pipeline
 
-**Shadow OS** is a large-scale, distributed hybrid recommender system designed to solve computational bottlenecks associated with highly sparse e-commerce datasets. By replacing memory-bound single-node frameworks with an **Apache Spark** and **Hadoop (HDFS)** backend, the system successfully processes **35.7 GiB** of interaction logs. 
+**Shadow OS** is a large-scale, distributed hybrid recommender system designed to solve computational bottlenecks associated with highly sparse e-commerce datasets. By replacing memory-bound single-node frameworks with an **Apache Spark** and **Hadoop (HDFS)** backend, the system successfully processes **8.7 GiB** of interaction logs. 
 
 ---
 
