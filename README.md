@@ -18,8 +18,8 @@
 
 ## 📊 Big Data Performance Metrics
 
-* **Input Data Volume:** 35.7 GiB (21.0M+ Rows)
-* **Execution Environment:** 3-Executor Standalone Cluster (12 Active Cores, 4GB RAM per Executor)
+* **Input Data Volume:** 8.7 GiB (400K+ Rows)
+* **Execution Environment:** 3-Executor Standalone Cluster (6 Active Cores, 4GB RAM per Executor)
 * **Distributed Load Balancing:** 30 explicitly defined Shuffle Partitions
 * **Execution Throughput:** 2,449 distributed DAG stages completed in 6.9 cumulative compute hours.
 
